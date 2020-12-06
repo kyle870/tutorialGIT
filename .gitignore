@@ -1,1 +1,3 @@
-*.codigo.js
+*
+.codigo.js
+.index2.html
